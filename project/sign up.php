@@ -112,11 +112,10 @@
 
         <p class="mt-3">Already have an account? Go to <a href="log in.php">Sign In</a></p>
 
-        <hr>
-        <a href="log in.php" class="btn btn-secondary">Go back</a>
     </div>
 
     <script src="js/java sign up.js"></script>
 </body>
+
 
 </html>
