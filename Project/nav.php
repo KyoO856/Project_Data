@@ -1,7 +1,7 @@
 <nav>
     <div class="nav-container">
         <div class="nav-logo">
-            <img src="img/dbell.png" alt="Logo" class="logonav">
+            <img src="img/dbell2.png" alt="Logo" class="logonav">
         </div>
         <div class="nav-profile">
             <span class="nav-profile-name">
@@ -12,4 +12,5 @@
             </a>
         </div>
     </div>
+
 </nav>
